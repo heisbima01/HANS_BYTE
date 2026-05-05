@@ -19,10 +19,10 @@ if (dotenvPath) {
 // Application Configuration Object
 module.exports = {
   // Session and Owner Information
-  SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // Add your session ID here
+  SESSION_ID: process.env.SESSION_ID || "HANS-BYTE~8mlGjQ6b#idZ0maJjhXkYqbpZxZPSVS0fQSMXvT97pOmlGixhMko", // eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0R0U1RxN2dmMEVGMElkb05FcStJY2FVUW5yZ0N3SkhxTEhpc1lNL0pVND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidzNNRVFzS2RTUVlLcEVVeVFJaVJxMlJYZEtvLzFqN3ZlMi9XQUlxVTNCYz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJPQzA0emttM1I0Q0Q2cGJiN3poOVpvTmczWldDUWJEVXNkNVY4djBXZ204PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJpbkxhUmRuRjdPTnFBOFB3ajY5bmRJbVFqd1hhZnhnVXhNSGozd0RyWGxzPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdQWVEyRXFDQm9jenNTSFQyN1N5Y0pDWGRKZ3JQMDNoc2hWQ0tHbitwRW89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNVemphWC85RHRiS3F1RkMvZVFmYlpiMHlXYmVqeTZFMHIzdWpXWnRORms9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFp…
   SUDO: process.env.SUDO || "237696900612", // Add your admin/sudo number here
   OWNER_NUM: process.env.OWNER_NUM || "237696900612", // Add the owner's number here
-  OWNER_NAME: process.env.OWNER_NAME || "HANS TECH", // Add the owner's name here
+  OWNER_NAME: process.env.OWNER_NAME || "heisbima01", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "your@email.com", // Add your email address here
   OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
